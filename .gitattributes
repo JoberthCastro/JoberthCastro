@@ -1,0 +1,2 @@
+# Força arquivos .ipynb a serem reconhecidos como Python pelo GitHub Linguist
+*.ipynb linguist-language=Python
